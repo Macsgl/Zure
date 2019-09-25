@@ -27,6 +27,10 @@ Zure是一套专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 
  
 ## 更新日志
+2019-9-25<br>
+v1.7.2.1<br>
+1.图标调优：Available.png、Round_Robin.png<br>
+
 2019-9-18<br>
 v1.7.2<br>
 1.图标上新：Disney+.png、KKBOX.png、Pandora.png<br>
