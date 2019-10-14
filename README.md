@@ -11,7 +11,7 @@ Zure是一套专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 1.在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)找到需要的策略组图标并记下**图标名称**([效果图预览](https://github.com/zealson/Zure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88))<br>
 2.在Quantumult X的“配置文件-编辑”中找到[policy]中找到策略组，并在该策略组的最后一个节点后方加上<br>
 img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名称.png<br>
-(例：<span>static=Hong Kong, HK1, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png<br>
+(例：<span>static=Hong Kong, 🇭🇰01, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png<br>
 注意：此处的“Hong_Kong.png”**图标名称**中的下划短横线和字母大小写)<br>
 3.重启Quantumult X即可见到效果<br>
 *更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“我的 iPhone-Quantumult X-Images”，删除Images文件夹内所有缓存文件)，并重启Quantumult X，远程图标会重新下载并生效。*<br>
