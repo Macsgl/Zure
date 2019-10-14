@@ -11,7 +11,7 @@ Zure是一套专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 1.在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)找到需要的策略组图标并记下**图标名称**([效果图预览](https://github.com/zealson/Zure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88))<br>
 2.在Quantumult X的“配置文件-编辑”中找到[policy]中找到策略组，并在该策略组的最后一个节点后方加上<br>
 img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名称.png<br>
-(例如：<span>static=HK, Server1, Server2, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png<br>
+(例如：<span>static=Hong Kong, HK1, HK2, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png<br>
 注意：此处的“Hong_Kong.png”**图标名称**中的下划短横线和字母大小写)<br>
 3.重启Quantumult X即可见到效果<br>
 *更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“我的 iPhone-Quantumult X-Images”，删除Images文件夹内所有缓存文件)，并重启Quantumult X，远程图标会重新下载并生效。*<br>
@@ -25,11 +25,6 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
  [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)
 
-## 免责声明
-Zure所涉及图标、LOGO仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性。<br>
-遵循避风港原则，若有图片和内容侵权，请在Issues告知，核实后删除，其版权均归原作者及其网站所有。<br>
-本人不对任何内容承担任何责任，包括但不限于任何内容错误导致的任何损失、损害。<br>
-其它人通过任何方式登陆本网站或直接、间接使用Zure相关资源，均应仔细阅读本声明，一旦使用Zure任何相关教程或资源，即被视为您已接受此免责申明。<br>
  
 ## 更新日志
 2019-10-13<br>
@@ -114,6 +109,13 @@ v1.1.0<br>
 2019-8-11<br>
 v1.0.0<br>
 正式发布，支持绝大多数策略组图标需求<br>
+
+## 免责声明
+Zure所涉及图标、LOGO仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性。<br>
+遵循避风港原则，若有图片和内容侵权，请在Issues告知，核实后删除，其版权均归原作者及其网站所有。<br>
+本人不对任何内容承担任何责任，包括但不限于任何内容错误导致的任何损失、损害。<br>
+其它人通过任何方式登陆本网站或直接、间接使用Zure相关资源，均应仔细阅读本声明，一旦使用Zure任何相关教程或资源，即被视为您已接受此免责申明。<br>
+
 ## 效果图预览
 [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure_Preview.png)
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure_Preview.png)
