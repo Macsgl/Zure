@@ -31,7 +31,7 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
 v1.7.4<br>
 1.归档图标：Dler.png、MAYING.png、Nexitally.png、N3RO.png、rix.png、Taiwan.png、YoYu.png<br>
 2.调优图标：Direct.png、Proxy.png、Reject.png、Round_Robin.png<br>
-3.新增图标：India.png、Turkey.png<br>
+3.新增图标：Netease_Music_Unlock.png、India.png、Turkey.png<br>
 *归档图标：图标不在预览图中展示，但仍支持订阅；*<br>
 
 2019-10-13<br>
