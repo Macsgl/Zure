@@ -8,7 +8,7 @@ Zure是一套专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ## 使用说明
 ### 方式一：远程图标(推荐：跨设备同步策略组图标，及时获取图标更新)<br>
 该操作以Quantumult X v1.0.0-build103为例<br>
-1.在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)找到需要的策略组图标并记下**图标名称**([效果图预览](https://github.com/zealson/Zure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88))<br>
+1.在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)找到需要的策略组图标并记下**图标名称**（[效果图预览](https://github.com/zealson/Zure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)，不含归档图标）<br>
 2.在Quantumult X的“配置文件-编辑”中找到[policy]下的策略组字段，并在该策略组的最后一个节点后方加上<br>
 img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名称.png<br>
 (例：<span>static=Hong Kong, 🇭🇰01, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png<br>
@@ -29,7 +29,7 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
 ## 更新日志
 2019-10-21<br>
 v1.7.4<br>
-1.归档图标：Dler.png、MAYING.png、Nexitally.png、N3RO.png、rix.png、Taiwan.png、YoYu.png<br>
+1.归档图标：Dler.png、MAYING.png、Nexitally.png、N3RO.png、rix.png、YoYu.png、Taiwan.png、Netease_Music_Unlock.png<br>
 2.调优图标：Direct.png、Proxy.png、Reject.png、Round_Robin.png<br>
 3.新增图标：Netease_Music_Unlock.png、India.png、Turkey.png<br>
 *归档图标：图标不在预览图中展示，但仍支持订阅；*<br>
