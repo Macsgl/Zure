@@ -25,7 +25,11 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
  [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)
 
- 
+## 补充说明
+1.转载请注明出处，谢谢！<br>
+2.归档图标：图标不在预览图中展示，但仍支持订阅；包括：Dler.png、MAYING.png、Nexitally.png、N3RO.png、rix.png、YoYu.png、Taiwan.png、Netease_Music_Unlock.png<br>
+3.需要新增策略图标，请在Telegram、Issues（GitHub内）中说明图标名称并附上相关图标资源链接。<br>
+
 ## 更新日志
 v1.7.5<br>
 2019-10-22<br>
@@ -125,13 +129,11 @@ v1.0.0<br>
 2019-8-11<br>
 正式发布，支持绝大多数策略组图标需求<br>
 
-## 免责声明与补充说明
+## 免责声明
 1.Zure项目内所涉及图标、LOGO仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性。<br>
 2.遵循避风港原则，若有图片和内容侵权，请在Issues告知，核实后删除，其版权均归原作者及其网站所有。<br>
 3.本人不对任何内容承担任何责任，包括但不限于任何内容错误导致的任何损失、损害。<br>
 4.其它人通过任何方式登陆本网站或直接、间接使用Zure项目相关资源，均应仔细阅读本声明，一旦使用、转载Zure项目任何相关教程或资源，即被视为您已接受此免责声明。<br>
-5.需要新增策略图标，请在Telegram、Issues（GitHub内）中说明图标名称并附上相关图标资源链接。<br>
-6.转载请注明出处，谢谢！<br>
 
 ## 效果图预览
 [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure_Preview.png)
