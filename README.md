@@ -28,6 +28,10 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
  
 ## 更新日志
 2019-10-21<br>
+v1.7.4.1<br>
+1.调优图标：Global.png、Available.png、Netease_Music_Unlock.png、Round_Robin.png、Reject.png、SSID.png、Static.png<br>
+
+2019-10-21<br>
 v1.7.4<br>
 1.归档图标：Dler.png、MAYING.png、Nexitally.png、N3RO.png、rix.png、YoYu.png、Taiwan.png、Netease_Music_Unlock.png<br>
 2.调优图标：Direct.png、Proxy.png、Reject.png、Round_Robin.png<br>
