@@ -27,6 +27,11 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
 
  
 ## 更新日志
+v1.7.5<br>
+2019-10-22<br>
+1.新增图标：Loop.png、Bypass.png<br>
+2.调优图标：Static.png、Direct.png、Proxy.png、Reject.png<br>
+
 v1.7.4.1<br>
 2019-10-22<br>
 1.调优图标：Global.png、Available.png、Netease_Music_Unlock.png、Round_Robin.png、Reject.png、SSID.png、Static.png<br>
