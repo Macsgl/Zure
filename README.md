@@ -31,6 +31,11 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
 3.需要新增策略图标，请在Telegram、Issues（GitHub内）中说明图标名称并附上相关图标资源链接。<br>
 
 ## 更新日志
+v1.7.5.1<br>
+2019-10-23<br>
+1.新增图标：HKMTMedia.png、Apple_News.png<br>
+2.调优图标：India.png<br>
+
 v1.7.5<br>
 2019-10-22<br>
 1.新增图标：Loop.png、Bypass.png<br>
