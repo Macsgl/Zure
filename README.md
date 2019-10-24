@@ -34,7 +34,7 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
 v1.7.6<br>
 2019-10-24<br>
 1.新增图标：CN.png、HK.png、MO.png、TW.png、US.png、UK.png、KR.png、TR.png、SG.png、RU.png、NL.png、IN.png、JP.png、FI.png、DE.png、CA.png<br>
-2.调优图标：IPLC.png、BGP.png、BBTEC.png、GIA.png、GT.png、＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png<br>
+2.调优图标：HKMTMedia.png、IPLC.png、BGP.png、BBTEC.png、GIA.png、GT.png、＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png<br>
 
 v1.7.5.1<br>
 2019-10-23<br>
