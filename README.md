@@ -31,6 +31,11 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
 3.需要新增策略图标，请在Telegram、Issues（GitHub内）中说明图标名称并附上相关图标资源链接。<br>
 
 ## 更新日志
+v1.7.6.1<br>
+2019-10-25<br>
+1.新增图标：United_Nations.png、UN.png<br>
+2.删除图标：NL.png<br>
+
 v1.7.6<br>
 2019-10-24<br>
 1.新增图标：CN.png、HK.png、MO.png、TW.png、US.png、UK.png、KR.png、TR.png、SG.png、RU.png、NL.png、IN.png、JP.png、FI.png、DE.png、CA.png<br>
