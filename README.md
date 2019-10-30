@@ -31,6 +31,10 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
 3.需要新增策略图标，请在Telegram、Issues（GitHub内）中说明图标名称并附上相关图标资源链接。<br>
 
 ## 更新日志
+v1.7.6.2<br>
+2019-10-30<br>
+1.调优图标：IPLC.png、BGP.png、GT.png、BBTEC.png、GIA.png、＊0.png、＊0.1.png、＊0.3.png、＊0.5.png、＊1.png、＊2.png<br>
+
 v1.7.6.1<br>
 2019-10-25<br>
 1.新增图标：United_Nations.png、UN.png<br>
