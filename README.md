@@ -28,7 +28,7 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
 ## 补充说明
 1.转载请注明出处，谢谢！<br>
 2.归档图标：图标不在预览图中展示，但仍支持订阅；包括：Dler.png、MAYING.png、Nexitally.png、N3RO.png、rix.png、YoYu.png、Taiwan.png、Netease_Music_Unlock.png<br>
-3.需要新增策略图标，请在Telegram、Issues（GitHub内）中说明图标名称并附上相关图标资源链接。<br>
+3.需要新增策略图标，请提Issues或Telegram中说明图标名称并附上相关图标资源链接。<br>
 
 ## 更新日志
 v1.7.6.2<br>
