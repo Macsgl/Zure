@@ -4,7 +4,7 @@
 
 ## 简介
 Zure是一套专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)内策略组而精心设计的图标组。在这里你可以订阅、下载并更新它们。<br>
-
+OK
 ## 使用说明
 ### 方式一：远程图标(推荐：跨设备同步策略组图标，及时获取图标更新)<br>
 该操作以Quantumult X v1.0.0-build103为例<br>
